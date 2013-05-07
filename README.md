@@ -1,4 +1,4 @@
-# Graph Fragment Language for Easy Syntactic Annotation
+## Graph Fragment Language for Easy Syntactic Annotation
 
 Software to support a lightweight dependency-style annotation language.
 by Nathan Schneider, Brendan O'Connor, Naomi Saphra, and Chris Dyer.
@@ -7,7 +7,7 @@ by Nathan Schneider, Brendan O'Connor, Naomi Saphra, and Chris Dyer.
 * `scripts/` -- a tool for checking and visualizing them, in GraphViz.
 * `anno/`   -- some annotated sentences.
 
-# Getting started
+## Getting started
 
 The viewer needs Python 2.7 and GraphViz ("dot" command) to be installed.  Run:
 
