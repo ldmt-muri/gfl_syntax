@@ -1,0 +1,7 @@
+% TEXT
+Jane Doe is two times as~1 tall as~2 him .
+
+% ANNO
+[ Jane Doe ] > is 
+is < (tall > [ as~1 as~2 ] < him)
+two > times > tall

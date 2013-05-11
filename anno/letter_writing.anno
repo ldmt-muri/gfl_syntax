@@ -1,0 +1,5 @@
+% TEXT
+He has been writing a letter .
+
+% ANNO
+He > ( has been writing* ) < ( a letter )

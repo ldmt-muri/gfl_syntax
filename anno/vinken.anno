@@ -1,0 +1,10 @@
+% TEXT
+Pierre Vinken , 61 years old , will join the board as a nonexecutive director Nov. 29 .
+
+% ANNO
+join < [ Pierre Vinken ]
+join < board
+join < as < director
+join < [Nov. 29]
+nonexecutive > director
+61 > years > old > [ Pierre Vinken ]
